@@ -113,7 +113,7 @@ window.WORKS = {
   /* ---- 影像 demo ----
    * lead: true = 主打大屏；poster 是封面帧；dur 时长 */
   films: [
-    { f: "assets/video/video-06.mp4", poster: "assets/img/poster-06.jpg", name: "机能潮玩 · CG 短片",      dur: "00:30" },
+    { f: "assets/video/video-06.mp4", poster: "assets/img/poster-06.jpg", name: "雨夜街头 · 写实空镜短片",      dur: "00:30" },
     { f: "assets/video/video-05.mp4", poster: "assets/img/poster-05.jpg", name: "夜色取景 · REC 完整版", dur: "02:03", lead: true },
     { f: "assets/video/video-03.mp4", poster: "assets/img/poster-03.jpg", name: "剧情对话 · 写实短片", dur: "00:30" },
     { f: "assets/video/video-02.mp4", poster: "assets/img/poster-02.jpg", name: "少年与龙 · CG 奇幻",   dur: "00:30" },
