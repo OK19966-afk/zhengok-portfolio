@@ -48,7 +48,15 @@ window.WORKS = {
       { f: "assets/img/hero-moon.jpg",     name: "静夜故梦",            tag: "人物×环境" }
     ]},
 
-    /* 2 · 人物设计 */
+    /* 2 · CG 角色 · 潮玩（写实 3D 渲染 · 机能潮玩 · 广告素材）*/
+    { id: "s-cg", cn: "CG 角色 · 潮玩", en: "CG & ART TOY", note: "写实 3D 渲染 · 机能潮玩 · 赛博机能", items: [
+      { f: "assets/img/cg-toy-01.jpg",     name: "机能少女 · 红色潮玩",   tag: "潮玩" },
+      { f: "assets/img/cg-toy-02.jpg",     name: "银发少年 · 红花装饰",   tag: "潮玩" },
+      { f: "assets/img/cg-still-01.jpg",   name: "写实少女 · 米色卫衣",   tag: "CG角色" },
+      { f: "assets/img/still-zhouzhou.jpg",name: "舟舟 · 赛博都市夜景",   tag: "剧照" }
+    ]},
+
+    /* 3 · 人物设计 */
     { id: "s-chars", cn: "人物设计", en: "CHARACTER DESIGN", note: "角色设定 · 三视图 · 表情", items: [
       { f: "assets/img/char-vovo.jpg",         name: "女角色 vovo",        tag: "角色设计" },
       { f: "assets/img/char-vovo-3view.jpg",   name: "VOVO · 三视图",      tag: "三视图" },
@@ -105,6 +113,7 @@ window.WORKS = {
   /* ---- 影像 demo ----
    * lead: true = 主打大屏；poster 是封面帧；dur 时长 */
   films: [
+    { f: "assets/video/video-06.mp4", poster: "assets/img/poster-06.jpg", name: "机能潮玩 · CG 短片",      dur: "00:30" },
     { f: "assets/video/video-05.mp4", poster: "assets/img/poster-05.jpg", name: "夜色取景 · REC 完整版", dur: "02:03", lead: true },
     { f: "assets/video/video-03.mp4", poster: "assets/img/poster-03.jpg", name: "剧情对话 · 写实短片", dur: "00:30" },
     { f: "assets/video/video-02.mp4", poster: "assets/img/poster-02.jpg", name: "少年与龙 · CG 奇幻",   dur: "00:30" },
