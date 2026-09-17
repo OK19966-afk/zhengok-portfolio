@@ -53,7 +53,13 @@ window.WORKS = {
       { f: "assets/img/cg-toy-01.jpg",     name: "机能少女 · 红色潮玩",   tag: "潮玩" },
       { f: "assets/img/cg-toy-02.jpg",     name: "银发少年 · 红花装饰",   tag: "潮玩" },
       { f: "assets/img/cg-still-01.jpg",   name: "写实少女 · 米色卫衣",   tag: "CG角色" },
-      { f: "assets/img/still-zhouzhou.jpg",name: "舟舟 · 赛博都市夜景",   tag: "剧照" }
+      { f: "assets/img/still-zhouzhou.jpg",name: "舟舟 · 赛博都市夜景",   tag: "剧照" },
+      { f: "assets/img/cg-toy-03.jpg",     name: "灰白兜帽 · 机能人物",   tag: "潮玩" },
+      { f: "assets/img/cg-toy-04.jpg",     name: "红黑机甲 · 潮玩角色",   tag: "潮玩" },
+      { f: "assets/img/cg-man-01.jpg",     name: "大厂青年 · 绿色霓虹",   tag: "CG角色" },
+      { f: "assets/img/cg-girl-01.jpg",    name: "灰衣少女 · 湿发肖像",   tag: "CG角色" },
+      { f: "assets/img/cg-girl-02.jpg",    name: "眼镜少女 · 特写肖像",   tag: "CG角色" },
+      { f: "assets/img/cg-poster-ironhawks.jpg", name: "IRON HAWKS · 小队海报", tag: "海报" }
     ]},
 
     /* 3 · 人物设计 */
@@ -113,8 +119,10 @@ window.WORKS = {
   /* ---- 影像 demo ----
    * lead: true = 主打大屏；poster 是封面帧；dur 时长 */
   films: [
-    { f: "assets/video/video-06.mp4", poster: "assets/img/poster-06.jpg", name: "雨夜街头 · 写实空镜短片",      dur: "00:30" },
     { f: "assets/video/video-05.mp4", poster: "assets/img/poster-05.jpg", name: "夜色取景 · REC 完整版", dur: "02:03", lead: true },
+    { f: "assets/video/video-08.mp4", poster: "assets/img/poster-08.jpg", name: "雨夜霓虹 · 赛博街景长片", dur: "01:41" },
+    { f: "assets/video/video-07.mp4", poster: "assets/img/poster-07.jpg", name: "废墟厂房 · 写实场景空镜", dur: "00:15" },
+    { f: "assets/video/video-06.mp4", poster: "assets/img/poster-06.jpg", name: "雨夜街头 · 写实空镜短片", dur: "00:30" },
     { f: "assets/video/video-03.mp4", poster: "assets/img/poster-03.jpg", name: "剧情对话 · 写实短片", dur: "00:30" },
     { f: "assets/video/video-02.mp4", poster: "assets/img/poster-02.jpg", name: "少年与龙 · CG 奇幻",   dur: "00:30" },
     { f: "assets/video/video-04.mp4", poster: "assets/img/poster-04.jpg", name: "白昼特写 · 人物情绪", dur: "00:30" },
